@@ -1,0 +1,13 @@
+MyName! - Password is not accepted.
+ Password is not 8 characters long.
+ Password should have at least one digit.
+ Password should not contain any special characters.
+pikobi2062 - Password is not accepted.
+ Password does not have 2 uppercase characters.
+0TINa4$5A - Password is not accepted.
+ Password does not have 2 lowercase characters.
+ Password should not contain any special characters.
+B0nJ0v1 - Password is not accepted.
+ Password is not 8 characters long.
+130uN5Ie - Password Accepted
+AmAnda629 - Password Accepted
